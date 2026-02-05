@@ -1,6 +1,5 @@
 
 import React, { useState } from 'react';
-// Added Box to the imported icons from lucide-react
 import { Search, Filter, Plus, ChevronRight, Tags, Package, ArrowLeft, MoreHorizontal, Box } from 'lucide-react';
 import { INVENTORY_STRUCTURE } from '../constants';
 import { Category } from '../types';
