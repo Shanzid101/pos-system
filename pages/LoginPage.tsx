@@ -71,7 +71,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
         </div>
         
         <p className="text-center text-gray-600 text-[10px] mt-8 uppercase tracking-widest">
-          © 2024 MARVELLE SHOP POS v3.2.1
+          © 2024 MARVELLE
         </p>
       </div>
     </div>
